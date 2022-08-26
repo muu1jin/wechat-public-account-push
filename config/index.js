@@ -8,7 +8,7 @@ wx46fb3f652906e103",
     // 模板消息id
     templateId: "kiAfRlBLlUZFxH651zjaNAlK-1jDBMgefOgwG1RmoW8",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["o1Er86hrMdwS4yn2BhvLRzqHkxd0"],
+    user: [o1Er86hrMdwS4yn2BhvLRzqHkxd0],
      
     // 信息配置
     // 所在省份
