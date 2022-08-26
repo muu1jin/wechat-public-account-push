@@ -1,8 +1,7 @@
 export const config = {
     // 公众号配置
     // 公众号appId
-    appId: "
-wx46fb3f652906e103",
+    appId: "wx46fb3f652906e103",
     // 公众号appSecret
     appSecret: "46f9e058232c41561119dfcce9553786",
     // 模板消息id
